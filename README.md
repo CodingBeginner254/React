@@ -3,7 +3,7 @@
 React + Html + CSS + JavaScript
 Retrieving json data from the backend server using axios.
 
-# 배포링크
+# Deploy Link
 
 https://leafy-profiterole-1b850b.netlify.app/
 
